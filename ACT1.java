@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.DecimalFormat;
 public class ACT1
-{
+{cabrom
     public static void main (String [] args) {
         Scanner lector=new Scanner(System.in);
         double nota1,nota2,nota3,nota4,suma,mitja;
